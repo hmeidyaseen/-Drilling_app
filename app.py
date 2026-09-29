@@ -5,7 +5,7 @@ st.set_page_config(
     page_title="Differential Sticking Predictor",
     page_icon="🌵",
     layout="wide"
-)import streamlit as st
+import streamlit as st
 
 # 1. إعدادات الصفحة
 st.set_page_config(page_title="Differential Sticking Predictor", layout="wide")
